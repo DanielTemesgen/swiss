@@ -44,6 +44,7 @@
 .header-title { color: $color-title; }
 .header-text { color: $color-foreground; }
 .header-social { fill: $color-foreground; }
+.header-social-layered { fill: $color-background; }
 .header-social-accent { fill: $color-dot-accent; }
 .header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
