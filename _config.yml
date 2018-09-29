@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
 github_username: jekyll
-
+repository: danieltemesgen/danieltemesgen.github.io
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
@@ -32,6 +32,9 @@ social_link: goodreads
 goodreads_username: test
 
 social_email: test@test.com
+
+#test cv location, doesn't point to actual file, the path is used for testing purposes
+cv_location: assets/pdfs/cv.pdf
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
